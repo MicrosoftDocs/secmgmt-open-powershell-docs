@@ -1,1 +1,3 @@
-# Welcome to secmgmt-docs-powershell!
+---
+redirect_url: https://docs.microsoft.com/powershell/secmgmt/overview
+---

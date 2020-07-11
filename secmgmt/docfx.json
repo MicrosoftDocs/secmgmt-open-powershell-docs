@@ -39,9 +39,14 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
+      "author": "isaiahwilliams",
       "breadcrumb_path": "/powershell/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "None"
+      "feedback_github_repo": "microsoftdocs/secmgmt-open-powershell-docs",
+      "feedback_system": "GitHub",
+      "feedback_product_url": "https://github.com/microsoft/secmgmt-open-powershell/issues/new",
+      "ms.author": "iswillia",
+      "searchScope": ["Microsoft 365", "Microsoft 365 PowerShell","Security and Management PowerShell"] 
     },
     "fileMetadata": {},
     "template": [],
