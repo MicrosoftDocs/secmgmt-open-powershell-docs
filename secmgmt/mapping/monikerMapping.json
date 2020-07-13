@@ -1,0 +1,8 @@
+{
+    "secmgmtopenps-1.0": {
+        "conceptualToc": "docs-conceptual/toc.yml",
+        "conceptualTocUrl": "/powershell/secmgmt/ce/toc.json",
+        "referenceTocUrl": "/powershell/module/secmgmtopenps-1.0/toc.json",
+        "packageRoot": "secmgmtopenps-1.0"
+    }
+  }
