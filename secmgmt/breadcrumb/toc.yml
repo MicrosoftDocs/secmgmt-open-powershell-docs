@@ -11,4 +11,4 @@
       topicHref: /powershell/secmgmt/overview
     - name: Security and Management Open PowerShell
       tocHref: /powershell/module/secmgmt
-      topicHref: /powershell/module/secmgmt/secmgmt
+      topicHref: /powershell/module/secmgmt/SecMgmt
