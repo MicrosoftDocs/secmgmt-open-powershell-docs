@@ -3,21 +3,49 @@
     "content": [
       {
         "files": [
-          "**/*.md",
-          "**/*.yml"
+          "**/*.md"
         ],
-        "exclude": [
-          "**/obj/**",
-          "**/includes/**",
-          "_themes/**",
-          "_themes.pdf/**",
-          "**/docfx.json",
-          "_repo.en-us/**",
-          "README.md",
-          "LICENSE",
-          "LICENSE-CODE",
-          "ThirdPartyNotices.md"
-        ]
+        "src": "docs-conceptual",
+        "version": "secmgmtopenps-1.0",
+        "dest": "secmgmt"
+      },
+      {
+        "files": [
+          "toc.yml"
+        ],
+        "src": "docs-conceptual",
+        "version": "secmgmtopenps-1.0",
+        "dest": "secmgmt/ce"
+      },
+      {
+        "files": [
+          "**/*.md"
+        ],
+        "src": "secmgmtopenps-1.0",
+        "version": "secmgmtopenps-1.0",
+        "dest": "module"
+      },
+      {
+        "files": [
+          "toc.yml"
+        ],
+        "src": "secmgmtopenps-1.0",
+        "version": "secmgmtopenps-1.0",
+        "dest": "module/secmgmtopenps-1.0"
+      },
+      {
+        "files":[
+          "toc.yml"
+        ],
+        "src": "breadcrumb",
+        "dest": "secmgmt/breadcrumb"
+      },
+      {
+        "files": [
+          "**/*.md"
+        ],
+        "src": "virtual-folder",
+        "dest": "module"
       }
     ],
     "resource": [
@@ -28,20 +56,21 @@
         ],
         "exclude": [
           "**/obj/**",
-          "**/includes/**",
-          "_themes/**",
-          "_themes.pdf/**",
-          "**/docfx.json",
-          "_repo.en-us/**"
+          "**/includes/**"
         ]
       }
     ],
+    "versions": {
+      "secmgmtopenps-1.0": {
+        "dest": "secmgmtopenps-1.0"
+      }
+    },
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
+	  "apiPlatform": "powershell",
+      "breadcrumb_path": "/powershell/secmgmt/breadcrumb/toc.json",
       "author": "isaiahwilliams",
-      "breadcrumb_path": "/powershell/breadcrumb/toc.json",
-      "extendBreadcrumb": true,
       "feedback_github_repo": "microsoftdocs/secmgmt-open-powershell-docs",
       "feedback_system": "GitHub",
       "feedback_product_url": "https://github.com/microsoft/secmgmt-open-powershell/issues/new",
