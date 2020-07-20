@@ -1,0 +1,15 @@
+- name: Security and Management Open PowerShell
+  href: overview.md
+- name: Install
+  href: install.md
+- name: Get started
+  href: get-started.md
+  displayName: sign in, signin, log in, login, find, feedback, intro, introduction
+- name: Sign in
+  items: 
+  - name: Authentication methods
+    href: authenticate.md
+    displayName: >-
+      sign in, signin, log in, login, credentials, msi, managed identity,
+      tenant, subscription, region, certificate, service principal,
+      authenticate
