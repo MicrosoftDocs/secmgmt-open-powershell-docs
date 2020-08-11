@@ -19,10 +19,13 @@
       },
       {
         "files": [
-          "**/*.md"
+          "**/*.yml"
         ],
         "src": "secmgmtopenps-1.0",
         "version": "secmgmtopenps-1.0",
+        "exclude": [
+          "toc.yml"
+        ],
         "dest": "module"
       },
       {
@@ -34,7 +37,7 @@
         "dest": "module/secmgmtopenps-1.0"
       },
       {
-        "files":[
+        "files": [
           "toc.yml"
         ],
         "src": "breadcrumb",
@@ -68,14 +71,18 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-	  "apiPlatform": "powershell",
+      "apiPlatform": "powershell",
       "breadcrumb_path": "/powershell/secmgmt/breadcrumb/toc.json",
       "author": "isaiahwilliams",
       "feedback_github_repo": "microsoftdocs/secmgmt-open-powershell-docs",
       "feedback_system": "GitHub",
       "feedback_product_url": "https://github.com/microsoft/secmgmt-open-powershell/issues/new",
       "ms.author": "iswillia",
-      "searchScope": ["Microsoft 365", "Microsoft 365 PowerShell","Security and Management PowerShell"] 
+      "searchScope": [
+        "Microsoft 365",
+        "Microsoft 365 PowerShell",
+        "Security and Management PowerShell"
+      ]
     },
     "fileMetadata": {},
     "template": [],
