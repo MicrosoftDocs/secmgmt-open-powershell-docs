@@ -3,8 +3,8 @@
   topicHref: /
   items:
   - name: Security and Management
-    href: /secmgmt/
-    homepage: /secmgmt/index
+    tocHref: /secmgmt/
+    topicHref: /secmgmt/index
     items:
     - name: Security and Management Open PowerShell
       tocHref: /powershell/secmgmt/
