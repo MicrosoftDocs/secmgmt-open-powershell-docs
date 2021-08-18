@@ -1,0 +1,9 @@
+{
+  "redirections": [
+    {
+      "source_path": "secmgmt/index.md",
+      "redirect_url": "https://docs.microsoft.com/powershell/secmgmt/overview",
+      "redirect_document_id": false
+    }
+  ]
+}
