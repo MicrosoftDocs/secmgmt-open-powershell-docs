@@ -84,7 +84,16 @@
         "Security and Management PowerShell"
       ]
     },
-    "fileMetadata": {},
+    "fileMetadata": {
+	  "ms.prod": {
+        "secmgmtopenps-1.0/**/*.md": "powershell",
+		"docs-conceptual/**/*.md": "powershell"
+      },
+      "ms.topic": {
+        "secmgmtopenps-1.0/**/*.md": "reference",
+		"docs-conceptual/**/*.md": "article"
+	    }
+	},
     "template": [],
     "dest": "secmgmt-docs-powershell",
     "markdownEngineName": "markdig"
