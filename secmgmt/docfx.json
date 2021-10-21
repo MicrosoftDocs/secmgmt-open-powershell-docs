@@ -86,11 +86,11 @@
     },
     "fileMetadata": {
 	  "ms.prod": {
-        "secmgmtopenps-1.0/**/*.md": "powershell",
+        "secmgmtopenps-1.0/**/*.*": "powershell",
 		"docs-conceptual/**/*.md": "powershell"
       },
       "ms.topic": {
-        "secmgmtopenps-1.0/**/*.md": "reference",
+        "secmgmtopenps-1.0/**/*.*": "reference",
 		"docs-conceptual/**/*.md": "article"
 	    }
 	},
