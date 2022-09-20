@@ -71,7 +71,7 @@ PS C:\> $refreshToken = '<refreshToken>'
 PS C:\> Connect-SecMgmtAccount -ApplicationId 'xxxx-xxxx-xxxx-xxxx' -RefreshToken $refreshToken
 ```
 
-Connects to the Microsoft cloud using a refresh token that was generated using a [native application](https://docs.microsoft.com/azure/active-directory/develop/native-app).
+Connects to the Microsoft cloud using a refresh token that was generated using a [native application](/azure/active-directory/develop/native-app).
 
 ### Example 4
 ```powershell
@@ -85,7 +85,7 @@ PS C:\>
 PS C:\> Connect-SecMgmtAccount -ApplicationId $appId -Credential $credential -RefreshToken $refreshToken
 ```
 
-Connects to the Microsoft cloud using a refresh token that was generated using a [web application](https://docs.microsoft.com/azure/active-directory/develop/web-app).
+Connects to the Microsoft cloud using a refresh token that was generated using a [web application](/azure/active-directory/develop/web-app).
 
 ## PARAMETERS
 
