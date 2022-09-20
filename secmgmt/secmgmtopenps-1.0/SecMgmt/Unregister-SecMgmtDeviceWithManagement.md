@@ -2,7 +2,7 @@
 content_git_url: https://github.com/microsoft/secmgmt-open-powershell/blob/master/docs/help/Unregister-SecMgmtDeviceWithManagement.md
 external help file: Microsoft.Online.SecMgmt.PowerShell.dll-Help.xml
 Module Name: SecMgmt
-online version: https://docs.microsoft.com/powershell/module/secmgmt/unregister-secmgmtdevicewithmanagement
+online version: https://learn.microsoft.com/powershell/module/secmgmt/unregister-secmgmtdevicewithmanagement
 original_content_git_url: https://github.com/microsoft/secmgmt-open-powershell/blob/master/docs/help/Unregister-SecMgmtDeviceWithManagement.md
 schema: 2.0.0
 ---
