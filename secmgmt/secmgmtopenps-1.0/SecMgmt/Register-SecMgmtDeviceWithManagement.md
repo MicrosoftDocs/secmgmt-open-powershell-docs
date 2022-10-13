@@ -2,7 +2,7 @@
 content_git_url: https://github.com/microsoft/secmgmt-open-powershell/blob/master/docs/help/Register-SecMgmtDeviceWithManagement.md
 external help file: Microsoft.Online.SecMgmt.PowerShell.dll-Help.xml
 Module Name: SecMgmt
-online version: https://docs.microsoft.com/powershell/module/secmgmt/register-SecMgmtDeviceWithManagement
+online version: https://learn.microsoft.com/powershell/module/secmgmt/register-SecMgmtDeviceWithManagement
 original_content_git_url: https://github.com/microsoft/secmgmt-open-powershell/blob/master/docs/help/Register-SecMgmtDeviceWithManagement.md
 schema: 2.0.0
 ---

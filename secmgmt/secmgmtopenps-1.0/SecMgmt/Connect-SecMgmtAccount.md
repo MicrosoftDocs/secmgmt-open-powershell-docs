@@ -2,7 +2,7 @@
 content_git_url: https://github.com/microsoft/secmgmt-open-powershell/blob/master/docs/help/Connect-SecMgmtAccount.md
 external help file: Microsoft.Online.SecMgmt.PowerShell.dll-Help.xml
 Module Name: SecMgmt
-online version: https://docs.microsoft.com/powershell/module/secmgmt/connect-secmgmtaccount
+online version: https://learn.microsoft.com/powershell/module/secmgmt/connect-secmgmtaccount
 original_content_git_url: https://github.com/microsoft/secmgmt-open-powershell/blob/master/docs/help/Connect-SecMgmtAccount.md
 schema: 2.0.0
 ---
