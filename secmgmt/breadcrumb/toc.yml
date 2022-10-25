@@ -1,14 +1,14 @@
-- name: Docs
+- name: Learn
   tocHref: /
   topicHref: /
   items:
   - name: Security and Management
-    tocHref: /secmgmt/
-    topicHref: /secmgmt/index
+    tocHref: /powershell/module/secmgmt/
+    topicHref: /powershell/module/secmgmt/index
     items:
     - name: Security and Management Open PowerShell
       tocHref: /powershell/secmgmt/
       topicHref: /powershell/secmgmt/overview
     - name: Security and Management Open PowerShell
-      tocHref: /powershell/module/secmgmt
-      topicHref: /powershell/module/secmgmt/SecMgmt
+      tocHref: /powershell/module/
+      topicHref: /powershell/module/secmgmt
