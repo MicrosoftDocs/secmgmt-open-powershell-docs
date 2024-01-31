@@ -86,9 +86,11 @@
       ]
     },
     "fileMetadata": {
-	  "ms.prod": {
+      "ms.service": {
         "secmgmtopenps-1.0/**/*.*": "powershell",
-		"docs-conceptual/**/*.md": "powershell"
+        "docs-conceptual/**/*.md": "powershell"
+      },
+	  "ms.prod": {
       },
       "ms.topic": {
         "secmgmtopenps-1.0/**/*.*": "reference",
