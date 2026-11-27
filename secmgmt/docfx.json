@@ -74,11 +74,11 @@
       "apiPlatform": "powershell",
       "breadcrumb_path": "/powershell/secmgmt/breadcrumb/toc.json",
       "uhfHeaderId": "MSDocsHeader-Powershell",
-      "author": "isaiahwilliams",
+      "author": "diberry",
       "feedback_github_repo": "microsoftdocs/secmgmt-open-powershell-docs",
       "feedback_system": "GitHub",
       "feedback_product_url": "https://github.com/microsoft/secmgmt-open-powershell/issues/new",
-      "ms.author": "iswillia",
+      "ms.author": "diberry",
       "searchScope": [
         "Microsoft 365",
         "Microsoft 365 PowerShell",
